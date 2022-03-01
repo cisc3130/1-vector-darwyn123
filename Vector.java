@@ -104,7 +104,7 @@ public class Vector<E> extends AbstractList<E> implements List<E>, RandomAccess 
 	System.out.println(intlist.indexOf("seven")); 										
 	System.out.println(intlist.addAfterIf(3, 1));									// Testing addAfterIf with 3, 1 as the elements.
 	System.out.println(intlist);
-	System.out.println(intlist.addAfterIf(4, 7));									// Another test on addAfterIf with 4,7 as the elements.
+	System.out.println(intlist.addAfterIf(4, 7));									// Another test on addAfterIf with 4,7 as the elements...
 	System.out.println(intlist);
 	System.out.println(intlist.addAfterIf(4, 9));									// Another test on addAfterIf with 4, 9 as the elements.
 	System.out.println(intlist);
